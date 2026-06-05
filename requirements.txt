@@ -1,0 +1,13 @@
+mysql-connector-python
+pydantic
+fastapi
+python-dotenv
+pandas
+scikit-learn
+numpy
+ipykernel
+nltk
+tensorflow
+matplotlib
+streamlit
+tensorboard
